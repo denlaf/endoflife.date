@@ -1,6 +1,7 @@
 ---
 title: Laravel
 category: framework
+tags: php-runtime
 iconSlug: laravel
 permalink: /laravel
 releasePolicyLink: https://laravel.com/docs/9.x/releases#support-policy

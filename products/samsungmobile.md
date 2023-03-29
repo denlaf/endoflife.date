@@ -4,6 +4,7 @@ alternate_urls:
 -   /samsungmobile
 title: Samsung Mobile
 category: device
+tags: mobile-phone smartwatch tablet
 iconSlug: samsung
 releasePolicyLink: https://security.samsungmobile.com/workScope.smsb
 discontinuedColumn: false
